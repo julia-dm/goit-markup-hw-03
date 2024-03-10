@@ -191,7 +191,7 @@ padding-top: 120px;
     gap: 24px;
 }
 .advantages-item {
-    width: calc((100% - 3 * 8px)/4);
+    width: calc((100% - 8px * 3 ) / 4);
     
 }
 .advantages-subtitle {
@@ -240,7 +240,7 @@ text-align: center;
 }
 .team-item {
      background-color: #ffffff;
-     width: calc((100% - 3* 24px)/4);
+     width: calc((100% - 24px * 3) / 4);
 
       border-radius: 0 0 4px 4px;
 padding: 0px 0px 32px 0px;
